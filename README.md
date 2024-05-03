@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Python, MySql, Wordpress,**
 
-- 📫 How to reach me **Sleeperbuild@proton.me**
+- 📫 How to reach me **help@chyp.dev**
 
 - ⚡ Fun fact **lazy man**
 
