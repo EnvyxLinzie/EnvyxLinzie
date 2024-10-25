@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Yasyim, a freelance Wordpress developer and student ui/ux 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Yasyim, a freelance Wordpress developer and trying to be a fullstack jsht 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on [Horizonfx](https://horizonfx.id)  
